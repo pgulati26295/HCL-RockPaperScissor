@@ -1,0 +1,13 @@
+D:\Preeti\HCL.RockPaperScissors\HCL.RockPaperScissors\bin\Debug\netcoreapp3.1\HCL.RockPaperScissors.exe
+D:\Preeti\HCL.RockPaperScissors\HCL.RockPaperScissors\bin\Debug\netcoreapp3.1\HCL.RockPaperScissors.deps.json
+D:\Preeti\HCL.RockPaperScissors\HCL.RockPaperScissors\bin\Debug\netcoreapp3.1\HCL.RockPaperScissors.runtimeconfig.json
+D:\Preeti\HCL.RockPaperScissors\HCL.RockPaperScissors\bin\Debug\netcoreapp3.1\HCL.RockPaperScissors.runtimeconfig.dev.json
+D:\Preeti\HCL.RockPaperScissors\HCL.RockPaperScissors\bin\Debug\netcoreapp3.1\HCL.RockPaperScissors.dll
+D:\Preeti\HCL.RockPaperScissors\HCL.RockPaperScissors\bin\Debug\netcoreapp3.1\HCL.RockPaperScissors.pdb
+D:\Preeti\HCL.RockPaperScissors\HCL.RockPaperScissors\obj\Debug\netcoreapp3.1\HCL.RockPaperScissors.csprojAssemblyReference.cache
+D:\Preeti\HCL.RockPaperScissors\HCL.RockPaperScissors\obj\Debug\netcoreapp3.1\HCL.RockPaperScissors.AssemblyInfoInputs.cache
+D:\Preeti\HCL.RockPaperScissors\HCL.RockPaperScissors\obj\Debug\netcoreapp3.1\HCL.RockPaperScissors.AssemblyInfo.cs
+D:\Preeti\HCL.RockPaperScissors\HCL.RockPaperScissors\obj\Debug\netcoreapp3.1\HCL.RockPaperScissors.csproj.CoreCompileInputs.cache
+D:\Preeti\HCL.RockPaperScissors\HCL.RockPaperScissors\obj\Debug\netcoreapp3.1\HCL.RockPaperScissors.dll
+D:\Preeti\HCL.RockPaperScissors\HCL.RockPaperScissors\obj\Debug\netcoreapp3.1\HCL.RockPaperScissors.pdb
+D:\Preeti\HCL.RockPaperScissors\HCL.RockPaperScissors\obj\Debug\netcoreapp3.1\HCL.RockPaperScissors.genruntimeconfig.cache
